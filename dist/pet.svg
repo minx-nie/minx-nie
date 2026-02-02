@@ -9,37 +9,47 @@
       <!-- Weather Effects (behind pet) -->
       <g class="weather-layer" style="pointer-events: none;">
         
-        <g fill="#FFD700">
-          <circle cx="24.76792818149132" cy="72.75183865091529" r="2.9457873502006753">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.1472400929173618s" repeatCount="indefinite"/>
-        </circle><circle cx="188.71419908773822" cy="27.620403469990173" r="1.9381844472423717">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6407046768585132s" repeatCount="indefinite"/>
-        </circle><circle cx="214.842552159779" cy="37.21045734130102" r="2.343989902303836">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2045651962531636s" repeatCount="indefinite"/>
-        </circle><circle cx="82.14293955370461" cy="139.88251045346965" r="2.864404782003401">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.3428099213864333s" repeatCount="indefinite"/>
-        </circle><circle cx="141.38209764149113" cy="112.37002015802089" r="1.6907903477684774">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4723880269158354s" repeatCount="indefinite"/>
-        </circle><circle cx="25.48072130455045" cy="112.70965116773061" r="2.484240332237075">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4144203837756906s" repeatCount="indefinite"/>
-        </circle><circle cx="223.3871306344988" cy="170.21503016657334" r="2.177604351052868">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6468949811252864s" repeatCount="indefinite"/>
-        </circle><circle cx="172.19369750420117" cy="179.6506151724069" r="2.46676989222185">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.48233711042672s" repeatCount="indefinite"/>
-        </circle><circle cx="92.9440239402862" cy="102.84688254116332" r="1.3465838244675625">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.3680965976429835s" repeatCount="indefinite"/>
-        </circle><circle cx="130.26778928010623" cy="118.99823726220241" r="1.5330025033191559">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.9958473675899202s" repeatCount="indefinite"/>
-        </circle><circle cx="163.0906149110564" cy="167.09936439109458" r="2.770035390330454">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5498120329052103s" repeatCount="indefinite"/>
-        </circle><circle cx="268.10594123582615" cy="175.03091721460478" r="1.0409608162625612">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8987107295521493s" repeatCount="indefinite"/>
-        </circle><circle cx="169.4001428962321" cy="27.524139364491116" r="2.6047685788939883">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.599880840565119s" repeatCount="indefinite"/>
-        </circle><circle cx="178.5299454069734" cy="62.404637381204815" r="2.7330823085924356">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.172599559116387s" repeatCount="indefinite"/>
-        </circle><circle cx="55.622157716317965" cy="34.399724642276105" r="1.0036580697835205">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.0963049312370439s" repeatCount="indefinite"/>
+        <g>
+          <circle cx="73.41790885107395" cy="58.05174724957011" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="73.41790885107395;72.93947006289257;73.41790885107395" dur="5.078412722289553s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="58.05174724957011;64.91815049636047;58.05174724957011" dur="5.078412722289553s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="139.2033213951064" cy="183.17116978456667" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="139.2033213951064;165.1434731509549;139.2033213951064" dur="3.600487924015562s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="183.17116978456667;197.15549143163162;183.17116978456667" dur="3.600487924015562s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="22.534931099159678" cy="86.91601562441615" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="22.534931099159678;38.47544943327683;22.534931099159678" dur="3.6651694050559103s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="86.91601562441615;99.968841273417;86.91601562441615" dur="3.6651694050559103s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="158.62008950019765" cy="169.7845084287385" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="158.62008950019765;165.4356570643805;158.62008950019765" dur="3.3259237549447s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="169.7845084287385;150.62492293578052;169.7845084287385" dur="3.3259237549447s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="237.7608608424968" cy="86.52443000272062" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="237.7608608424968;223.41520281987047;237.7608608424968" dur="3.0606217173967902s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="86.52443000272062;99.09212284201209;86.52443000272062" dur="3.0606217173967902s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="261.34812249579727" cy="107.77119189303689" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="261.34812249579727;280.4189248257202;261.34812249579727" dur="3.5000678543819577s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="107.77119189303689;121.91100499414763;107.77119189303689" dur="3.5000678543819577s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="165.94989176376276" cy="320.20500951386816" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="165.94989176376276;143.69854549454993;165.94989176376276" dur="6.564783217919632s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="320.20500951386816;321.2338859557358;320.20500951386816" dur="6.564783217919632s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="208.61446724639165" cy="304.7355044552132" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="208.61446724639165;202.04259150821107;208.61446724639165" dur="3.081832810410468s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="304.7355044552132;316.2852547402786;304.7355044552132" dur="3.081832810410468s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="99.37191714566166" cy="227.71290920733267" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="99.37191714566166;127.62801657849995;99.37191714566166" dur="3.265567819115903s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="227.71290920733267;257.08211593600487;227.71290920733267" dur="3.265567819115903s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
+        </circle><circle cx="55.55870988935931" cy="130.12699286168595" r="3" fill="#FFEB3B" opacity="0.8">
+          <animate attributeName="cx" values="55.55870988935931;48.37360210621327;55.55870988935931" dur="3.0660071017221853s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="130.12699286168595;132.3614282448501;130.12699286168595" dur="3.0660071017221853s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.5s" repeatCount="indefinite"/>
         </circle>
         </g>
       
@@ -70,16 +80,16 @@
         
     <g transform="translate(226, -25)">
       <!-- Speech bubble -->
-      <rect x="0" y="0" width="160" height="24" rx="10" ry="10" 
+      <rect x="0" y="0" width="104" height="24" rx="10" ry="10" 
             fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <!-- Bubble tail -->
       <polygon points="15,24 20,32 25,24" 
                fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
       <!-- Text -->
-      <text x="80" y="16" 
+      <text x="52" y="16" 
             font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-            fill="#2d333b" text-anchor="middle">Hello? Anyone there?</text>
+            fill="#2d333b" text-anchor="middle">Remember me?</text>
     </g>
   
         <!-- Seasonal Accessory (z-index: above pet) -->
@@ -111,9 +121,9 @@
     <g class="achievements">
       
       <g transform="translate(5, 0)">
-        <title>Night Owl: Late night commit</title>
+        <title>Early Bird: Early morning commit</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">🦉</text>
+        <text x="10" y="14" text-anchor="middle" font-size="11">🐦</text>
       </g>
     
       
