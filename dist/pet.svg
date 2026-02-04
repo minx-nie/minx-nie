@@ -9,40 +9,6 @@
       <!-- Weather Effects (behind pet) -->
       <g class="weather-layer" style="pointer-events: none;">
         
-        <g fill="#FFD700">
-          <circle cx="180.2251116755244" cy="113.98936241954742" r="1.7010005344464663">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.855702675993047s" repeatCount="indefinite"/>
-        </circle><circle cx="237.54035416276184" cy="12.428417176095135" r="2.423723316361676">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.0878348934039956s" repeatCount="indefinite"/>
-        </circle><circle cx="164.6497302525133" cy="165.75838657951925" r="2.6413356556864005">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6871527249400873s" repeatCount="indefinite"/>
-        </circle><circle cx="257.74483295366133" cy="135.79795031621228" r="2.9929741976761357">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4811693415347293s" repeatCount="indefinite"/>
-        </circle><circle cx="110.35352612459397" cy="48.047694408677366" r="1.6546800657851568">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8863188285568886s" repeatCount="indefinite"/>
-        </circle><circle cx="47.724191938048364" cy="132.44863102711182" r="1.2688202180991097">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.9177698798439264s" repeatCount="indefinite"/>
-        </circle><circle cx="137.14998981085535" cy="99.26730360503171" r="1.5712947200804295">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.051589080780437s" repeatCount="indefinite"/>
-        </circle><circle cx="79.30406370056741" cy="16.100234272250326" r="1.6882677241009114">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.0920860422511183s" repeatCount="indefinite"/>
-        </circle><circle cx="165.8544469639778" cy="98.62348496379363" r="1.9769211789421703">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.795262602915411s" repeatCount="indefinite"/>
-        </circle><circle cx="69.47673865052177" cy="132.07285913291557" r="1.1160596746201827">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4888979261984057s" repeatCount="indefinite"/>
-        </circle><circle cx="104.71159025179544" cy="141.91324177917087" r="2.9756024900480553">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.7491463172068795s" repeatCount="indefinite"/>
-        </circle><circle cx="142.9762574705732" cy="141.09328710472795" r="1.8134626966122789">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.7885951476435693s" repeatCount="indefinite"/>
-        </circle><circle cx="68.76137340102589" cy="60.48643763594422" r="2.9634410199917336">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5423217918328707s" repeatCount="indefinite"/>
-        </circle><circle cx="256.57588191361253" cy="128.38930910652203" r="1.3712028218108818">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.0354570399937555s" repeatCount="indefinite"/>
-        </circle><circle cx="194.35534478561397" cy="49.453144959178275" r="2.078894641114558">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4170228282625974s" repeatCount="indefinite"/>
-        </circle>
-        </g>
-      
       </g>
       <!-- Evolution Effects (behind pet) -->
       <g class="evolution-layer" style="pointer-events: none;">
@@ -111,9 +77,9 @@
       </g>
     
       <g transform="translate(30, 0)">
-        <title>Night Owl: Late night commit</title>
+        <title>Early Bird: Early morning commit</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">🦉</text>
+        <text x="10" y="14" text-anchor="middle" font-size="11">🐦</text>
       </g>
     
       
