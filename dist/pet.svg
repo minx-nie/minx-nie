@@ -9,38 +9,68 @@
       <!-- Weather Effects (behind pet) -->
       <g class="weather-layer" style="pointer-events: none;">
         
-        <g fill="#FFD700">
-          <circle cx="188.87847946665977" cy="64.54218874611027" r="2.336012690372405">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.6553860092720893s" repeatCount="indefinite"/>
-        </circle><circle cx="281.6243454582569" cy="144.60785705373357" r="1.1538076719919026">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5744944962113503s" repeatCount="indefinite"/>
-        </circle><circle cx="108.06870852448395" cy="140.17314440756812" r="1.908575994695561">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5480564693917116s" repeatCount="indefinite"/>
-        </circle><circle cx="186.6239093674332" cy="11.135575982645491" r="2.7733626967332348">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4530216108145932s" repeatCount="indefinite"/>
-        </circle><circle cx="33.80423868965195" cy="80.48860705302731" r="1.7078929295470662">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.1885188030258025s" repeatCount="indefinite"/>
-        </circle><circle cx="40.192940966652145" cy="124.43203898424859" r="1.3594242574775857">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.25873402208968s" repeatCount="indefinite"/>
-        </circle><circle cx="180.47101620862176" cy="141.59280090233486" r="1.3660880227722996">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.3397561909647946s" repeatCount="indefinite"/>
-        </circle><circle cx="104.49311976684798" cy="73.64110064926777" r="1.556874349178265">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.7107195278565137s" repeatCount="indefinite"/>
-        </circle><circle cx="15.23103825797039" cy="108.2081848392404" r="2.6559551398705823">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.21756776735121s" repeatCount="indefinite"/>
-        </circle><circle cx="41.010334677300975" cy="66.62436308792579" r="1.4154103965644964">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.886864082588934s" repeatCount="indefinite"/>
-        </circle><circle cx="87.807293831396" cy="56.786561037233" r="1.0234248758470397">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.7485943092683227s" repeatCount="indefinite"/>
-        </circle><circle cx="224.85011750006987" cy="157.5978118740151" r="1.6177709901526822">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.3595867720771513s" repeatCount="indefinite"/>
-        </circle><circle cx="18.05503945692921" cy="103.2083284868253" r="1.0124646546988023">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.408052383288223s" repeatCount="indefinite"/>
-        </circle><circle cx="54.51184596701536" cy="20.05777642351905" r="2.2954343589967747">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2414230594280724s" repeatCount="indefinite"/>
-        </circle><circle cx="170.79217644747706" cy="20.7415671741381" r="1.4911670050277421">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.898161616207837s" repeatCount="indefinite"/>
-        </circle>
+        <g opacity="0.6">
+          <line x1="10" y1="-10" x2="5" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+        </line><line x1="24.8" y1="-10" x2="19.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.1s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.1s" repeatCount="indefinite"/>
+        </line><line x1="39.6" y1="-10" x2="34.6" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
+        </line><line x1="54.400000000000006" y1="-10" x2="49.400000000000006" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
+        </line><line x1="69.2" y1="-10" x2="64.2" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.4s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.4s" repeatCount="indefinite"/>
+        </line><line x1="84" y1="-10" x2="79" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
+        </line><line x1="98.80000000000001" y1="-10" x2="93.80000000000001" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
+        </line><line x1="113.60000000000001" y1="-10" x2="108.60000000000001" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.7000000000000001s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.7000000000000001s" repeatCount="indefinite"/>
+        </line><line x1="128.4" y1="-10" x2="123.4" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
+        </line><line x1="143.20000000000002" y1="-10" x2="138.20000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.9s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.9s" repeatCount="indefinite"/>
+        </line><line x1="158" y1="-10" x2="153" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+        </line><line x1="172.8" y1="-10" x2="167.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.10000000000000009s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.10000000000000009s" repeatCount="indefinite"/>
+        </line><line x1="187.60000000000002" y1="-10" x2="182.60000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.20000000000000018s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.20000000000000018s" repeatCount="indefinite"/>
+        </line><line x1="202.4" y1="-10" x2="197.4" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.30000000000000004s" repeatCount="indefinite"/>
+        </line><line x1="217.20000000000002" y1="-10" x2="212.20000000000002" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.40000000000000013s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.40000000000000013s" repeatCount="indefinite"/>
+        </line><line x1="232" y1="-10" x2="227" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
+        </line><line x1="246.8" y1="-10" x2="241.8" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.6000000000000001s" repeatCount="indefinite"/>
+        </line><line x1="261.6" y1="-10" x2="256.6" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.7000000000000002s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.7000000000000002s" repeatCount="indefinite"/>
+        </line><line x1="276.40000000000003" y1="-10" x2="271.40000000000003" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.8s" repeatCount="indefinite"/>
+        </line><line x1="291.2" y1="-10" x2="286.2" y2="10" stroke="#4FC3F7" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="y1" values="-10;351" dur="0.7s" begin="0.9000000000000001s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="10;371" dur="0.7s" begin="0.9000000000000001s" repeatCount="indefinite"/>
+        </line>
         </g>
       
       </g>
@@ -111,9 +141,9 @@
       </g>
     
       <g transform="translate(30, 0)">
-        <title>Night Owl: Late night commit</title>
+        <title>Early Bird: Early morning commit</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">🦉</text>
+        <text x="10" y="14" text-anchor="middle" font-size="11">🐦</text>
       </g>
     
       
