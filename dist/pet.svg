@@ -9,40 +9,6 @@
       <!-- Weather Effects (behind pet) -->
       <g class="weather-layer" style="pointer-events: none;">
         
-        <g fill="#FFD700">
-          <circle cx="239.7177031841594" cy="14.007960364262011" r="2.9741771664975705">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4655385624059827s" repeatCount="indefinite"/>
-        </circle><circle cx="55.33884211720222" cy="34.17314178845332" r="2.8505785191442405">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.1888942278220251s" repeatCount="indefinite"/>
-        </circle><circle cx="143.09380611365575" cy="66.07844685510153" r="1.2502458237875493">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5168313291965068s" repeatCount="indefinite"/>
-        </circle><circle cx="264.7236155925656" cy="102.59852238608188" r="2.8391739242992142">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5227989280018774s" repeatCount="indefinite"/>
-        </circle><circle cx="161.1865547507571" cy="16.373841042345774" r="1.825192194626521">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.837947140738796s" repeatCount="indefinite"/>
-        </circle><circle cx="99.16589626049507" cy="134.0301157579978" r="2.043948752041943">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.96772736708365s" repeatCount="indefinite"/>
-        </circle><circle cx="208.5232479408049" cy="44.36794362815434" r="1.3154636955309225">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2409232903071845s" repeatCount="indefinite"/>
-        </circle><circle cx="140.19891960432855" cy="117.49472023087372" r="2.5546429449281023">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.472967113436496s" repeatCount="indefinite"/>
-        </circle><circle cx="258.55902781902023" cy="21.131601005153513" r="1.488081403322541">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.136876761254812s" repeatCount="indefinite"/>
-        </circle><circle cx="139.27724372892322" cy="173.63960161608227" r="1.058978920653765">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.970281733250419s" repeatCount="indefinite"/>
-        </circle><circle cx="60.53238249383228" cy="88.79401313058754" r="2.1344115227869214">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.270961945718423s" repeatCount="indefinite"/>
-        </circle><circle cx="173.75247851833728" cy="125.92743225803673" r="1.135789670562601">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.8564408597946658s" repeatCount="indefinite"/>
-        </circle><circle cx="249.61558883895484" cy="135.61836718519913" r="2.8625260710083325">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5258169339141912s" repeatCount="indefinite"/>
-        </circle><circle cx="70.03208477368437" cy="54.274901135466436" r="2.6898929305423134">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.498865162891353s" repeatCount="indefinite"/>
-        </circle><circle cx="259.04307502879874" cy="119.22583038471868" r="1.240270223241636">
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.43973207983029s" repeatCount="indefinite"/>
-        </circle>
-        </g>
-      
       </g>
       <!-- Evolution Effects (behind pet) -->
       <g class="evolution-layer" style="pointer-events: none;">
@@ -64,16 +30,16 @@
         
     <g transform="translate(226, -25)">
       <!-- Speech bubble -->
-      <rect x="0" y="0" width="139" height="24" rx="10" ry="10" 
+      <rect x="0" y="0" width="69" height="24" rx="10" ry="10" 
             fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <!-- Bubble tail -->
       <polygon points="15,24 20,32 25,24" 
                fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
       <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
       <!-- Text -->
-      <text x="69.5" y="16" 
+      <text x="34.5" y="16" 
             font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-            fill="#2d333b" text-anchor="middle">Do not disturb...</text>
+            fill="#2d333b" text-anchor="middle">*snore*</text>
     </g>
   
         <!-- Seasonal Accessory (z-index: above pet) -->
@@ -111,9 +77,9 @@
       </g>
     
       <g transform="translate(30, 0)">
-        <title>Night Owl: Late night commit</title>
+        <title>Early Bird: Early morning commit</title>
         <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
-        <text x="10" y="14" text-anchor="middle" font-size="11">🦉</text>
+        <text x="10" y="14" text-anchor="middle" font-size="11">🐦</text>
       </g>
     
       
